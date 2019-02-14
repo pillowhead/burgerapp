@@ -1,21 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## burgerapp
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
+This is a project to keep learning ReactJS and coding with Javascript, following the course by Maximilian Schwarzmüller.
 
-## Table of Contents
+By the end of the course, you can build amazing React (single page) applications!
 
 
-- [Adding a Stylesheet](#adding-a-stylesheet)
-- [Adding a CSS Modules Stylesheet](#adding-a-css-modules-stylesheet)
-- [Adding a Sass Stylesheet](#adding-a-sass-stylesheet)
-- [Post-Processing CSS](#post-processing-css)
-- [Adding Images, Fonts, and Files](#adding-images-fonts-and-files)
-- [Adding SVGs](#adding-svgs)
+# Topics touched onthe course
 
-## Sending Feedback
+- The "What", "Why" and "How"
+- React Basics (Base features, syntax and concepts)
+- Managing state with class-based components and React Hooks
+- How to output lists and conditional content
+- Styling of React components
+- A deep dive into the internals of React and advanced component features
+- How to access Http content from within React apps (AJAX)
+- Redux, Redux, Redux ... from basics to advanced!
+- Forms and form validation in React apps
+- Authentication
+- An introduction to unit testing
+- An introduction to Next.js
+- React app deployment instructions
+- ...and much more!
 
-We are always open to [your feedback](https://github.com/facebook/create-react-app/issues).
+# What is expected to be learnt
+
+- Build powerful, fast, user-friendly and reactive web apps
+- Provide amazing user experiences by leveraging the power of JavaScript with ease
+- Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now
+- Learn React Hooks & Class-based Components
+
+
+
 
 ## Folder Structure
 
