@@ -1,11 +1,11 @@
-## burgerapp
+# burgerapp
 
 This is a project to keep learning ReactJS and coding with Javascript, following the course by Maximilian Schwarzmüller.
 
 By the end of the course, you can build amazing React (single page) applications!
 
 
-# Topics touched onthe course
+## Topics touched onthe course
 
 - The "What", "Why" and "How"
 - React Basics (Base features, syntax and concepts)
@@ -22,7 +22,7 @@ By the end of the course, you can build amazing React (single page) applications
 - React app deployment instructions
 - ...and much more!
 
-# What is expected to be learnt
+## What is expected to be learnt
 
 - Build powerful, fast, user-friendly and reactive web apps
 - Provide amazing user experiences by leveraging the power of JavaScript with ease
